@@ -1,7 +1,7 @@
 
 ## Hey  🤙🏽
 
-My name is Giovanni Silva(or Jamal ).
+My name is Giovanni Silva(or Jamal).
 
 I'm a Systems Analyst and Developer, that has been working as a Front-end Developer since 2018.
 
