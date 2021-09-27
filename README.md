@@ -13,7 +13,7 @@ I'm a Systems Analyst and Developer, that has been working as a Front-end Develo
 ### Languages and Tools...
 
 💻
-HMTL, CSS, JavaScript, Bootstrap, SASS, Git, ReactJS, VueJS, Node.js, SQL, Linux, Python and Kotlin.
+HMTL, CSS, JavaScript, Bootstrap, SASS, Git, ReactJS, VueJS, Node.js, SQL, Linux and Python.
 #
 
 ### I'm currently...
